@@ -1,4 +1,4 @@
-# Machine Breakdown Prediction: Test performance of:  Logistic Regression, Decision Tree, RF, kNN  and SVM
+# Machine Breakdown Prediction: Test performance of:  LogReg, Decision Tree, RF, kNN  and SVM
 
 ## Introduction
 
