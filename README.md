@@ -4,5 +4,8 @@
 
 In this kernel we're going to to predict machine breakdown based on its indicators. There are more than 50 of them and all of which are unnamed. Therefore, we also need to understand how much we can reduce the number of available dimensions to simplify calculations.
 
+## Notebook
+[machine_breakdown.ipynb](machine_breakdown.ipynb)
+
 ## License
 This project is licensed under the MIT License.
